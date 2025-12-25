@@ -1,0 +1,8 @@
+{
+  "tests/test_jogo.py::test_vericando_se_nao_foi_criado_nenhum_personagem": true,
+  "tests/test_jogo.py::test_turno_jogador_um_inimigo_morreu": true,
+  "tests/test_jogo.py::test_confronto_opcao_1_oferecer_ouro": true,
+  "tests/test_jogo.py::test_confronto_opção_2_atacar": true,
+  "tests/test_jogo.py::test_confronto_opção_3_fugir": true,
+  "tests/test_jogo.py::test_mensagem_pos_vitoria": true
+}
